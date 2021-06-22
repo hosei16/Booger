@@ -1,5 +1,4 @@
-print("Hello World")
+x = 2
+y = 2
 
-
-
-print("Henry is awesome OMG ! he is ")
+print(x+y)
